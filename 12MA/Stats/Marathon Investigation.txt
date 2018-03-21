@@ -1,0 +1,7 @@
+I. It is generally considered that younger people are more physically advantaged as compared to older people. Seeing many sports teams are very selective in terms of age and that they generally prefer people that are younger This brings up an interesting question: does this apply to sports such as marathon running? A marathon runner will always attempt to gain the fastest time that they can, so is it true that younger marathon runners will have a faster time because of their perceived better physical capabilities or are faster times more related to other factors such as experience.
+
+P. I wonder if the median time taken of older marathon runners is greater than the median time taken for younger marathon runners in the dataset Manawatu Striders in 2015.
+
+P. I think that most the sporting community would be interested in the outcome of this investigation. More specifically, sports teams that take age into account when selecting competitors. It would make sense that they would be interested in the outcome of this investigation as it would either re-enforce their selection process or would suggest a change to their selection process. 
+
+P. I will use a sample size of 20% of the population. From the data, that would mean a sample size of 40 pieces of data. To accurately represent the population, 20 of those samples will be from younger runners and 20 of those will be older athletes. I will use a systematic sampling method as a method to ensure this.

@@ -193,6 +193,71 @@ $$
 
 <hr>
 
-## Theta Pg. Ex. 10.01
+### 23/3/18
 
-a. 
+$$
+y = 3
+(x + 5)^2 - 1
+$$
+$$
+y = -(x - 3) + 9
+$$
+
+# Parabolas in Factorised Form
+
+$$
+y = (x ^+_- a)(x ^+_- b)
+$$
+
+* 2 Brackets --> 2 $x$ intercepts
+* $x$ intercepts: Make $y$ 0
+* $y$ intercepts: Make $x$ 0
+
+Vertex: Half way between $x$ intercepts substitute value into each.
+
+<hr>
+
+$y = x(x+4)$
+
+$y = (x+0)(x+4)$
+
+<hr>
+
+$y_{intercept} = (0+0)(0+4)$
+
+<hr>
+
+# Competing the Square
+
+Examined in:
+* Graphing (rare)
+* Algebra (sometimes)
+* Level 3 calculus (often)
+
+Use this method when you can't factorise.
+
+$$
+y = x^2 +/- bx +/- c
+$$
+
+1. Halve b and write in the brackets $y = (x^+_- \frac{b}{2})^2$
+2. Square $\frac{b}{2}$ Add or subtract onto equation to make it up to c
+
+<hr>
+
+# **FINDING K**
+
+* Find the basic equation first.
+* Substitute another co-odonate into the basic equation and solve for $k$
+
+$y = K(x-1)(x-3)$
+
+find k, use (5, 8)
+
+$8 = k(5-1)(5-3)$
+
+$8 = k(4)(2)$
+
+$\frac{8}{8} = K$
+
+<hr>

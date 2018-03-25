@@ -243,3 +243,19 @@ Newton tells us that an unbalanced force will produce an acceleration in the dir
 
 Since gravity is an unbalanced force acting on the projectile, we must have an acceleration **downwards.**
 
+<hr>
+
+### 26/3/18
+# ESA Pg. 109 Ex. 9A
+
+Q1. Four forces are applied to an object.
+
+* a. 4N
+* b. The object accelerates at a bearing of 045˚
+
+Q2. Tow truck pulling 1250kg with a force of 1500N
+
+* a. $\frac{1500}{1250} = 1.2ms^{-2}$
+* b. $\frac{1500-600}{1250} = 0.72ms^{-2}$
+
+Q3.
